@@ -317,3 +317,30 @@ video {
   margin-right: 8px;
 }
 
+footer {
+  background-color: green;
+  color: #000;
+  padding: 0 24px;
+  border-top: 2px solid #000;
+  display: flex;
+  justify-content: space-between;
+}
+
+.copy {
+  display: block;
+  padding: 16px 0;
+}
+
+.link {
+  
+}
+
+footer a {
+  display: inline-block;
+  margin: 16px 0 0 16px;
+  text-decoration: underline;
+}
+
+footer a:hover {
+  text-decoration: none;
+}
