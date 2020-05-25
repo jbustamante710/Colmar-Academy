@@ -34,6 +34,7 @@ header {
 
 .holder-logo {
   display: flex;
+  color: green;
 }
 
 .logo1 {
@@ -187,5 +188,61 @@ button:hover {
   flex-flow: wrap column;
   justify-content: center;
   margin-right: 8px;
+}
+
+.blue {
+  background-color: green;
+}
+
+#learning {
+  background-color: green;
+  padding-bottom: 16px;
+}
+
+#learning h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2rem;
+  padding: 32px 0 16px 0;
+  text-align: center;
+}
+
+#learning h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.5rem;
+  margin: 16px 0;
+}
+
+#learning h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1rem;
+  margin: 8px 0;
+}
+
+.holder-courses {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: auto;
+}
+
+.holder-course {
+  background-color: silver;
+  width: 30%;
+  margin: 16px;
+  padding-bottom: 24px;
+}
+
+.holder-course-txt {
+  padding: 16px 16px;
+}
+
+.holder-course-img {
+  width: 100%;
+  height: auto;
+}
+
+.course-img {
+  width: 100%;
+  height: auto;
 }
 
