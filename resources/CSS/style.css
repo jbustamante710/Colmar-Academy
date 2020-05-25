@@ -122,12 +122,14 @@ button:hover {
 #practice h3 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 1.5rem;
+  color: green;
 }
 
 #practice h4 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 0.8rem;
   margin: 8px 0;
+  color: green;
 }
 
 #practice a {
@@ -188,10 +190,11 @@ button:hover {
   flex-flow: wrap column;
   justify-content: center;
   margin-right: 8px;
+  color: #000;
 }
 
 .blue {
-  background-color: green;
+  background-color: yellow;
 }
 
 #learning {
@@ -282,10 +285,12 @@ video {
 
 .holder-thesis-txt {
   margin: 24px 0 32px 24px;
+  color: green;
 }
 
 .holder-thesis-txt p {
   margin-top: 16px;
+  color: green;
 }
 
 .holder-thesis-info {
@@ -315,6 +320,7 @@ video {
   flex-flow: wrap column;
   justify-content: center;
   margin-right: 8px;
+  color: green;
 }
 
 footer {
